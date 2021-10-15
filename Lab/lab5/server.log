@@ -1,0 +1,4 @@
+[GET] - /store/harsh - undefined - http - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 - localhost Thu Oct 07 2021 19:40:11 GMT-0400 (Eastern Daylight Time) + 
+[GET] - /store/book - undefined - http - Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 - localhost Thu Oct 07 2021 19:40:13 GMT-0400 (Eastern Daylight Time) + 
+[DELETE] - /hello - undefined - http - PostmanRuntime/7.28.4 - localhost Thu Oct 07 2021 19:40:24 GMT-0400 (Eastern Daylight Time) + 
+[PATCH] - /hello - undefined - http - PostmanRuntime/7.28.4 - localhost Thu Oct 07 2021 19:40:26 GMT-0400 (Eastern Daylight Time) + 

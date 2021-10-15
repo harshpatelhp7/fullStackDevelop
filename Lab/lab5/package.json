@@ -1,0 +1,21 @@
+{
+  "name": "lab5_thu_express_route_example",
+  "version": "1.0.0",
+  "description": "Express Route Example",
+  "main": "index.js",
+  "scripts": {
+    "start": "set PORT=8081 && node index.js",
+    "dev":"set PORT=8082 && nodemon index.js",
+    "uat":"set PORT=8083 && nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Harsh Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "101243993_comp3123_assig1",
+  "version": "1.0.0",
+  "description": "Assignment-1",
+  "main": "101243993_comp3123_assig1.js",
+  "scripts": {
+    "start": "nodemon 101243993_comp3123_assig1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"REST",
+    "api\"",
+    "\"express\""
+  ],
+  "author": "Harsh Patel",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
